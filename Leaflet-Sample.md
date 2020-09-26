@@ -1,6 +1,6 @@
 # Crime in Sacremento, CA
 Thinn Wai  
-Septemeber 26, 2020  
+26/9/2020  
 
 The data for this map is taken from the Sacramento Crime January 2006 dataset which contains 7,584 crime records as made available by the Sacramento Police Department. The same is available here: http://samplecsvs.s3.amazonaws.com/SacramentocrimeJanuary2006.csv 
 
